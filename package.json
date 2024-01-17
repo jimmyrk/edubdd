@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^20.0.1",
+    "@cypress/browserify-preprocessor": "^3.0.2",
     "cypress": "^13.6.3",
     "prettier": "^3.2.4"
   }

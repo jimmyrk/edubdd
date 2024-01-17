@@ -11,7 +11,7 @@ async function setupNodeEvents(on, config) {
 module.exports = defineConfig({
   video: false,
   defaultCommandTimeout: 5000,
-  pageLoadTimeout: 1000,
+  pageLoadTimeout: 5000,
   e2e: {
     specPattern: "**/*.feature",
     supportFile: false,
